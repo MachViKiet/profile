@@ -46,7 +46,7 @@ function Resume() {
         architecture and components – including a document indexing module, a vector
         database for semantic search, and a conversational interface.
         <br/>
-        Source: <a style={{ color: 'hwb(45 70% 0%)' }} href="https://github.com/MachViKiet/Retrieval-Augmented-Generation">https://github.com/MachViKiet/Retrieval-Augmented-Generation</a>
+        Source: <a style={{ color: 'hwb(45 70% 0%)' }} href="https://github.com/Khoa-Nguyen-Kevin/Thesis-UniBot-HCMUS">https://github.com/Khoa-Nguyen-Kevin/Thesis-UniBot-HCMUS</a>
         <br/>
         Demo: <a style={{ color: 'hwb(45 70% 0%)' }} href="https://youtu.be/Rw_mRmgnjTU">https://youtu.be/Rw_mRmgnjTU</a>
         
