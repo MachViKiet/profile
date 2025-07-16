@@ -1,6 +1,6 @@
 function Project() {
   return (
-    <div>Project</div>
+    <div>Not Found</div>
   )
 }
 
